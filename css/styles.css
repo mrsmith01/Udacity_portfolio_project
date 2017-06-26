@@ -1,3 +1,24 @@
 h1 {
 	color: red;
 }
+
+.head {
+background-color: #99e6ff;
+text-align: right;
+position: relative;
+height: 25%;
+width: 100%
+
+}
+
+.content {
+background-color: #ffa64d;
+position: relative;
+height: 150px;
+width: 100%;
+}
+
+.picture1 {
+width: 100%;
+}
+

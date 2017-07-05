@@ -1,7 +1,12 @@
 .container {
-	max-width: 100%;
-	background-color: ;
-	padding: 5px;
+
+}
+
+.headertext {
+	color: #2d3c49;
+	font-family: "Palatino Linotype","Book Antiqua", "serif";
+	padding-top: 5%;
+	text-align: right;
 
 }
 
@@ -9,5 +14,17 @@
 	max-width: 100%;
 	background-color: green;
 	padding: 10px;
+
+}
+
+.line {
+border-bottom: solid #7d97ad;
+}
+
+.text {
+color: #7d97ad;
+text-align: left;
+font-family: sans-serif;
+font-size: 35px;
 
 }
